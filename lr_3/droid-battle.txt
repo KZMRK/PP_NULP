@@ -1,0 +1,106 @@
+[31mNULP VS LNU[0m
+-------------------------------------
+Round 1
+[31mNULP[0m team attacks [32mLNU[0m team
+[32mViy-2[0m get hit with 52 damage
+Defender [32mViy-2      228   7     80   [0m
+Attacker [31mChort-1    300   9     70   [0m
+-------------------------------------
+Round 2
+[31mLNU[0m team attacks [32mNULP[0m team
+[32mViy-1[0m get hit with 56 damage
+Defender [32mViy-1      224   7     80   [0m
+Attacker [31mMavka-1    350   10    60   [0m
+-------------------------------------
+Round 3
+[31mLNU[0m team attacks [32mNULP[0m team
+[32mChort-1[0m get hit with 66 damage
+Defender [32mChort-1    234   8     70   [0m
+Attacker [31mViy-2      228   7     80   [0m
+-------------------------------------
+Round 4
+[31mLNU[0m team attacks [32mNULP[0m team
+[32mViy-1[0m get hit with 66 damage
+Defender [32mViy-1      158   6     80   [0m
+Attacker [31mViy-2      228   7     80   [0m
+-------------------------------------
+Round 5
+[31mLNU[0m team attacks [32mNULP[0m team
+[32mChort-1[0m get hit with 70 damage
+Defender [32mChort-1    164   7     70   [0m
+Attacker [31mViy-2      228   7     80   [0m
+-------------------------------------
+Round 6
+[31mNULP[0m team attacks [32mLNU[0m team
+[32mViy-2[0m get hit with 66 damage
+Defender [32mViy-2      162   6     80   [0m
+Attacker [31mViy-1      158   6     80   [0m
+-------------------------------------
+Round 7
+[31mLNU[0m team attacks [32mNULP[0m team
+[32mChort-1[0m get hit with 47 damage
+Defender [32mChort-1    117   6     70   [0m
+Attacker [31mMavka-1    350   10    60   [0m
+-------------------------------------
+Round 8
+[31mNULP[0m team attacks [32mLNU[0m team
+[32mViy-2[0m get hit with 60 damage
+Defender [32mViy-2      102   5     80   [0m
+Attacker [31mViy-1      158   6     80   [0m
+-------------------------------------
+Round 9
+[31mNULP[0m team attacks [32mLNU[0m team
+[31mChort-1[0m uses [33m!!!SPECIAL FEATURE!!![0m
+Chort-1 turned into a Mavka-1
+Chort-1 new health is 350
+Mavka-1 new health is 117
+Defender [32mMavka-1    117   10    60   [0m
+Attacker [31mChort-1    350   6     70   [0m
+-------------------------------------
+Round 10
+[31mNULP[0m team attacks [32mLNU[0m team
+[32mMavka-1[0m get hit with 68 damage
+Defender [32mMavka-1    49    9     60   [0m
+Attacker [31mChort-1    350   6     70   [0m
+-------------------------------------
+Round 11
+[31mLNU[0m team attacks [32mNULP[0m team
+[31mViy-2[0m uses [33m!!!SPECIAL FEATURE!!![0m
+Viy-2 inflicted damage 183 to Chort-1 with his SUPER GAZE
+Defender [32mChort-1    167   6     70   [0m
+Attacker [31mViy-2      102   2     80   [0m
+-------------------------------------
+Round 12
+[31mNULP[0m team attacks [32mLNU[0m team
+[32mMavka-1[0m get hit with 61 damage
+Defender [32mMavka-1    0     8     60   [0m
+Attacker [31mViy-1      158   6     80   [0m
+-------------------------------------
+Round 13
+[31mLNU[0m team attacks [32mNULP[0m team
+[32mChort-1[0m get hit with 67 damage
+Defender [32mChort-1    100   5     70   [0m
+Attacker [31mViy-2      102   2     80   [0m
+-------------------------------------
+Round 14
+[31mLNU[0m team attacks [32mNULP[0m team
+[32mViy-1[0m get hit with 79 damage
+Defender [32mViy-1      79    5     80   [0m
+Attacker [31mViy-2      102   2     80   [0m
+-------------------------------------
+Round 15
+[31mNULP[0m team attacks [32mLNU[0m team
+[32mViy-2[0m get hit with 79 damage
+Defender [32mViy-2      23    1     80   [0m
+Attacker [31mViy-1      79    5     80   [0m
+-------------------------------------
+Round 16
+[31mNULP[0m team attacks [32mLNU[0m team
+[32mViy-2[0m get hit with 63 damage
+Defender [32mViy-2      0     0     80   [0m
+Attacker [31mViy-1      79    5     80   [0m
+--------------
+The winner is NULP
+#  Name       HP    ENR   DMG
+1. Chort-1    100   5     70   
+2. Viy-1      79    5     80   
