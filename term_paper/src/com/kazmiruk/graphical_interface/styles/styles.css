@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+.table-view {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10 10 0 0;
+}
+.table-view .column-header-background {
+    -fx-background-color: #f5901d;
+    -fx-background-radius: 8 8 0 0;
+    -fx-font-size: 12;
+}
+.table-view .column-header, .table-view .filler {
+    -fx-size: 40px;
+    -fx-border-width: 0 1 0 0;
+    -fx-border-color: #c76900;
+    -fx-background-color: transparent;
+    -fx-padding: 0 5;
+}
+
+.table-view .table-cell {
+    -fx-font-family: 'Noto Sans', sans-serif;
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 2;
+}
+.table-view .table-cell .text {
+    -fx-font-family: 'Noto Sans', sans-serif;
+}
+
+.table-row-cell:hover {
+    -fx-background-color: rgba(190, 190, 190, 0.24);
+    -fx-text-background-color: #f5901d;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: white;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: rgba(190, 190, 190, 0.24);
+}
+.table-row-cell:selected .text {
+    -fx-fill: #f5901d;
+}
+.btn {
+    -fx-background-color: #f5901d;
+    -fx-text-fill: #fff;
+    -fx-border-radius: 12 12 12 12;
+    -fx-font-size: 15;
+}
+.btn:hover {
+    -fx-background-color: rgba(245, 144, 29, 0.78);
+}
+
+.text {
+    -fx-font-family: 'Bevan', cursive;
+}
+.label {
+    -fx-text-fill: #f5901d;
+}
+.text-field {
+    -fx-background-color: white;
+    -fx-border-color: rgba(245, 144, 29, 0.78);
+    -fx-text-fill: #000000;
+}
+.choice-box {
+    -fx-background-color: white;
+    -fx-border-color: rgba(245, 144, 29, 0.78);
+    -fx-mark-color: #f5901d;
+}
+.choice-box > .label {
+    -fx-text-fill: #000;
+}
+.choice-box .text,
+.text-field .text{
+    -fx-font-family: 'Noto Sans', sans-serif;
+}
+.choice-box .menu-item > .label {
+    -fx-text-fill: #000000;
+}
+.choice-box .menu-item:focused {
+    -fx-background-color: #f5901d;
+}
+.choice-box .menu-item:focused > .label {
+    -fx-text-fill: white;
+}
+.title {
+    -fx-font-size: 40;
+    -fx-text-fill: #f5901d;
+}
+.menu-button .label {
+    -fx-text-fill: white;
+}
+.menu-button {
+    -fx-mark-color: #ffffff;
+}
+.menu-button .menu-item > .label {
+    -fx-text-fill: #000000;
+}
+.date-picker .arrow-button {
+    -fx-background-color: #f5901d;
+    -fx-background-radius: 0;
+}
+.date-picker .label {
+    -fx-font-family: 'Noto Sans', sans-serif;
+}
+.date-picker .arrow-button .arrow {
+    -fx-background-color: white;
+}
+.date-picker .cell {
+    -fx-background-color: white;
+}
+.date-picker .cell:hover {
+    -fx-background-color: #d1d1d1;
+}
+.date-picker .selected {
+    -fx-background-color: #f5901d;
+    -fx-text-fill: white;
+}
+
+.date-picker-popup {
+    -fx-border-color: transparent;
+}
+.date-picker-popup .month-year-pane {
+    -fx-background-color: #f5901d;
+}
+.date-picker-popup .month-year-pane .label {
+    -fx-text-fill: white;
+    -fx-font-family: 'Noto Sans', sans-serif;
+}
+.date-picker-popup .spinner .button .left-arrow,
+.date-picker-popup .spinner .button .right-arrow {
+    -fx-background-color: white;
+}
